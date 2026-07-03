@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varunraj-2005/varunraj-2005/main/profile-banner.png" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/varunraj-2005/varunraj-2005/main/profile-banner.png" style ="transform: rotate(90deg);" alt="banner" width="100%"/>
 </p>
 <h1 align="center">Hi 👋, I'm Varunraj P</h1>
 <h3 align="center">IT Student | Eager to Begin a Career in Software Development</h3>
