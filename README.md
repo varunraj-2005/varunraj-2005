@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/varunraj-2005/varunraj-2005/blob/main/images.jpg" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/varunraj-2005/varunraj-2005/main/images.jpg" alt="banner" width="250"/>
 </p>
 <h1 align="center">Hi 👋, I'm Varunraj P</h1>
 <h3 align="center">IT Student | Eager to Begin a Career in Software Development</h3>
