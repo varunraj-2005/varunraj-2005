@@ -40,7 +40,7 @@
 ### 🛠️ Tech Stack & Skills
 
 **Programming Languages**
-![Java]([https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white](https://drive.google.com/file/d/1siWgKnkKdnCqN1IXdOzjAHwXJqKPL2si/view?usp=sharing))
+![Java](https://drive.google.com/file/d/1siWgKnkKdnCqN1IXdOzjAHwXJqKPL2si/view?usp=sharing)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -65,13 +65,13 @@
 
 ### 🧩 Featured Projects
 
-#### 🔹 [Smart Sentiment Analysis of Play Store Reviews]([https://github.com/varunraj-2005](https://github.com/varunankm/AppReviewsentimentalanalysis)) — *Developer, 2025*
+#### 🔹 [Smart Sentiment Analysis of Play Store Reviews](https://github.com/varunankm/AppReviewsentimentalanalysis)— *Developer, 2025*
 Analyzed Google Play Store reviews using advanced NLP models such as **BERT, RoBERTa, and LSTM** to classify sentiment as positive, negative, or neutral. Implemented **Aspect-Based Sentiment Analysis (ABSA)** to surface insights on specific app features like performance, usability, and bugs — going beyond simple polarity detection.
 
-#### 🔹 [College Event Management System]([https://github.com/varunraj-2005](https://github.com/varunraj-2005/campus-event-management-system)) — *Developer, 2026*
+#### 🔹 [College Event Management System](https://github.com/varunraj-2005/campus-event-management-system) — *Developer, 2026*
 Built a **MERN-stack** web application to streamline student event registrations, team formations, and faculty approvals across college departments. Engineered an anti-fraud **"Live Geotag Verification"** system using device cameras and the **Geolocation API** to capture and securely encode unalterable GPS and timestamp watermarks onto live photos.
 
-#### 🔹 [Smart City Complaint System]([https://github.com/varunraj-2005](https://github.com/varunraj-2005/SMARTCITY-COMPLAINT-SYSTEM)) — *Developer, 2026*
+#### 🔹 [Smart City Complaint System](https://github.com/varunraj-2005/SMARTCITY-COMPLAINT-SYSTEM) — *Developer, 2026*
 Developed a web-based complaint management system for smart city grievance redressal using **HTML, CSS, and SQL**, enabling citizens to register, track, and resolve civic complaints efficiently.
 
 ---
