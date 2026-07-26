@@ -65,7 +65,7 @@
 
 ### 🧩 Featured Projects
 
-#### 🔹 [Smart Sentiment Analysis of Play Store Reviews](https://github.com/varunraj-2005/AppReviewsentimentalanalysis) — *Developer, 2025*
+#### 🔹 [Smart Sentiment Analysis of Play Store Reviews](https://github.com/varunankm/AppReviewsentimentalanalysis) — *Developer, 2025*
 Analyzed Google Play Store reviews using advanced NLP models such as **BERT, RoBERTa, and LSTM** to classify sentiment as positive, negative, or neutral. Implemented **Aspect-Based Sentiment Analysis (ABSA)** to surface insights on specific app features like performance, usability, and bugs — going beyond simple polarity detection.
 
 #### 🔹 [College Event Management System](https://github.com/varunraj-2005/campus-event-management-system) — *Developer, 2026*
