@@ -40,7 +40,7 @@
 ### 🛠️ Tech Stack & Skills
 
 **Programming Languages**
-![Java](https://drive.google.com/file/d/1siWgKnkKdnCqN1IXdOzjAHwXJqKPL2si/view?usp=sharing)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -65,7 +65,7 @@
 
 ### 🧩 Featured Projects
 
-#### 🔹 [Smart Sentiment Analysis of Play Store Reviews](https://github.com/varunankm/AppReviewsentimentalanalysis)— *Developer, 2025*
+#### 🔹 [Smart Sentiment Analysis of Play Store Reviews](https://github.com/varunraj-2005/AppReviewsentimentalanalysis) — *Developer, 2025*
 Analyzed Google Play Store reviews using advanced NLP models such as **BERT, RoBERTa, and LSTM** to classify sentiment as positive, negative, or neutral. Implemented **Aspect-Based Sentiment Analysis (ABSA)** to surface insights on specific app features like performance, usability, and bugs — going beyond simple polarity detection.
 
 #### 🔹 [College Event Management System](https://github.com/varunraj-2005/campus-event-management-system) — *Developer, 2026*
