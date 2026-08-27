@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=varunraj-2005&show_icons=true&hide_border=true&bg_color=0b0d0a&title_color=FFD700&icon_color=ffc400&text_color=e8ffe3&ring_color=FFD700" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=varunraj-2005&show_icons=true&hide_border=true&bg_color=0b0d0a&title_color=FFD700&icon_color=ffc400&text_color=e2ffe0&ring_color=FFD700" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunraj-2005&hide_border=true&background=0b0d0a&stroke=FFD700&ring=FFD700&fire=ffc400&currStreakLabel=FFD700&sideLabels=e8ffe0&dates=5fae3f" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunraj-2005&layout=compact&hide_border=true&bg_color=0b0d0a&title_color=FFD700&text_color=e8ffe0" width="48%"/>
