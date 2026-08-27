@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0d0a,100:0b0d0a&height=140&section=header&text=VARUNRAJ%20P.&fontColor=39ff14&fontSize=58&fontAlignY=55&desc=THE%20LABORATORY%20OF%20SYSTEMS&descAlign=50&descAlignY=85&descSize=18&descColor=ffc400&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0d0a,100:0b0d0a&height=140&section=header&text=VARUNRAJ%20P.&fontColor=FFD700&fontSize=58&fontAlignY=55&desc=THE%20LABORATORY%20OF%20SYSTEMS&descAlign=50&descAlignY=85&descSize=18&descColor=ffc400&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=2800&pause=900&color=39FF14&background=0B0D0A00&center=true&vCenter=true&multiline=true&width=780&height=40&lines=Every+problem+has+a+recipe.;I+cook+in+Java%2C+Python+%26+JavaScript.;Status%3A+Cooking+something+new..." alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=2800&pause=900&color=FFD700&background=0B0D0A00&center=true&vCenter=true&multiline=true&width=780&height=40&lines=Every+problem+has+a+recipe.;I+cook+in+Java%2C+Python+and+JavaScript.;Status%3A+Cooking+something+new..." alt="typing banner" />
 
 <sub>CLASSIFIED SOFTWARE ENGINEERING DOSSIER &nbsp;·&nbsp; SUBJECT LOCATED: KARUR, TAMIL NADU</sub>
 
@@ -12,11 +12,11 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-open_dossier-39ff14?style=for-the-badge&labelColor=0b0d0a&logo=vercel&logoColor=39ff14)](https://varunraj-portfolio-tau.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-varunraj--2005-39ff14?style=for-the-badge&labelColor=0b0d0a&logo=github&logoColor=39ff14)](https://github.com/varunraj-2005)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-39ff14?style=for-the-badge&labelColor=0b0d0a&logo=linkedin&logoColor=39ff14)](https://www.linkedin.com/in/varunraj-p-5b8813313)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-open_dossier-FFD700?style=for-the-badge&labelColor=0b0d0a&logo=vercel&logoColor=FFD700)](https://varunraj-portfolio-tau.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-varunraj--2005-FFD700?style=for-the-badge&labelColor=0b0d0a&logo=github&logoColor=FFD700)](https://github.com/varunraj-2005)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-FFD700?style=for-the-badge&labelColor=0b0d0a&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/varunraj-p-5b8813313)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-500%2B_solved-ffc400?style=for-the-badge&labelColor=0b0d0a&logo=leetcode&logoColor=ffc400)](https://leetcode.com/u/varunraj5173/)
-[![Email](https://img.shields.io/badge/EMAIL-contact-39ff14?style=for-the-badge&labelColor=0b0d0a&logo=gmail&logoColor=39ff14)](mailto:rajapandian1412@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-contact-FFD700?style=for-the-badge&labelColor=0b0d0a&logo=gmail&logoColor=FFD700)](mailto:rajapandian1412@gmail.com)
 
 </div>
 
@@ -56,12 +56,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=varunraj-2005&show_icons=true&hide_border=true&bg_color=0b0d0a&title_color=39ff14&icon_color=ffc400&text_color=e8ffe0&ring_color=39ff14" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunraj-2005&hide_border=true&background=0b0d0a&stroke=39ff14&ring=39ff14&fire=ffc400&currStreakLabel=39ff14&sideLabels=e8ffe0&dates=5fae3f" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=varunraj-2005&show_icons=true&hide_border=true&bg_color=0b0d0a&title_color=FFD700&icon_color=ffc400&text_color=e8ffe0&ring_color=FFD700" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunraj-2005&hide_border=true&background=0b0d0a&stroke=FFD700&ring=FFD700&fire=ffc400&currStreakLabel=FFD700&sideLabels=e8ffe0&dates=5fae3f" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunraj-2005&layout=compact&hide_border=true&bg_color=0b0d0a&title_color=39ff14&text_color=e8ffe0" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunraj-2005&layout=compact&hide_border=true&bg_color=0b0d0a&title_color=FFD700&text_color=e8ffe0" width="48%"/>
 
-<img src="https://komarev.com/ghpvc/?username=varunraj-2005&label=DOSSIER+VIEWS&color=39ff14&style=for-the-badge&labelColor=0b0d0a" />
+<img src="https://komarev.com/ghpvc/?username=varunraj-2005&label=DOSSIER+VIEWS&color=FFD700&style=for-the-badge&labelColor=0b0d0a" />
 
 </div>
 
