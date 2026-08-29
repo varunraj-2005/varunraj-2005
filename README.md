@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![](https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=22&duration=4000&pause=1500&color=FFD700&background=0D0D0D00&center=true&vCenter=true&width=980&height=70&lines=%22If+my+doctor+told+me+I+had+only+six+minutes+to+live%2C+I+wouldn%27t+brood.+I%27d+type+a+little+faster.%22)](https://github.com/varunraj-2005)
+[![](https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=22&duration=4000&pause=1500&color=FFD700&background=0D0D0D00&center=true&vCenter=true&width=108080&height=70&lines=%22If+my+doctor+told+me+I+had+only+six+minutes+to+live%2C+I+wouldn%27t+brood.+I%27d+type+a+little+faster.%22)](https://github.com/varunraj-2005)
 
 [![](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=E8F7FF&background=0D0D0D00&center=true&vCenter=true&width=900&height=45&lines=Initializing+J.A.R.V.I.S....;Booting+Stark+OS+v3.0...;Compiling+full-stack+experiments...;Suiting+up+in+MERN+%2B+Python+%2B+NLP...;Status%3A+ONLINE+and+shipping.)](https://github.com/varunraj-2005)
 
