@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0d0a,100:0b0d0a&height=140&section=header&text=VARUNRAJ%20P.&fontColor=FFD700&fontSize=58&fontAlignY=55&desc=THE%20LABORATORY%20OF%20SYSTEMS&descAlign=50&descAlignY=85&descSize=18&descColor=ffc400&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=2800&pause=900&color=FFD700&background=0B0D0A00&center=true&vCenter=true&multiline=true&width=880&height=40&lines=If+my+doctor+told+me+I+had+only+six+minutes+to+live,+I+wouldn't+brood.+I'd+type+a+little+faster.;I+cook+in+Java%2C+Python+and+JavaScript.;Status%3A+Cooking+something+new..." alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=2800&pause=900&color=FFD700&background=0B0D0A00&center=true&vCenter=true&multiline=true&width=1080&height=40&lines=If+my+doctor+told+me+I+had+only+six+minutes+to+live,+I+wouldn't+brood.+I'd+type+a+little+faster.;I+cook+in+Java%2C+Python+and+JavaScript.;Status%3A+Cooking+something+new..." alt="typing banner" />
 
 <sub>CLASSIFIED SOFTWARE ENGINEERING DOSSIER &nbsp;·&nbsp; SUBJECT LOCATED: KARUR, TAMIL NADU</sub>
 
