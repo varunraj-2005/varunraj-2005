@@ -1,3 +1,5 @@
+![Banner](https://github.com/varunraj-2005/varunraj-2005/raw/main/assets/banner.png)
+
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,40:8B0000,70:B22222,100:FFD700&height=210&section=header&text=STARK%20INDUSTRIES%20%2F%2F%20VARUNRAJ.EXE&fontSize=38&fontColor=FFD700&fontAlignY=32&animation=fadeIn&desc=MARK%20L%20PROTOCOL%20%E2%80%94%20FULL-STACK%20%26%20APPLIED%20AI%20DIVISION&descAlignY=55&descSize=17&descColor=E8F7FF)](https://github.com/varunraj-2005)
 
 <div align="center">
