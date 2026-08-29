@@ -36,12 +36,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=varunraj-2005&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=DC143C&text_color=E8F7FF&ring_color=DC143C)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunraj-2005&hide_border=true&background=0D0D0D&stroke=FFD700&ring=DC143C&fire=FFD700&currStreakLabel=FFD700&sideLabels=E8F7FF&dates=8a8a8a&currStreakNum=E8F7FF&sideNums=E8F7FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunraj-2005&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=E8F7FF)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=varunraj-2005&theme=dracula&no-frame=true&margin-w=10&row=1)
 
 </div>
 
